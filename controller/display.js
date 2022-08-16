@@ -1,1 +1,1 @@
-console.log("Hello display functions")
+console.log("Hello display functions 2")
